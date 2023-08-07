@@ -1,0 +1,12 @@
+D:\projects\Perfumes\PostgreSQL\bin\Debug\net6.0\PostgreSQL.deps.json
+D:\projects\Perfumes\PostgreSQL\bin\Debug\net6.0\PostgreSQL.dll
+D:\projects\Perfumes\PostgreSQL\bin\Debug\net6.0\PostgreSQL.pdb
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.csproj.AssemblyReference.cache
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.AssemblyInfoInputs.cache
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.AssemblyInfo.cs
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.csproj.CoreCompileInputs.cache
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.dll
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\refint\PostgreSQL.dll
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\PostgreSQL.pdb
+D:\projects\Perfumes\PostgreSQL\obj\Debug\net6.0\ref\PostgreSQL.dll

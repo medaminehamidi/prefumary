@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUgv16HLrAztDawx/neEUntENSJPD9hG8+vuYxTiKi5YmtDG7D1dmtrFYOJchdKN0Zm0qY0+BLWMuy19xBQUDg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Perfumes\\PostgreSQL\\PostgreSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC GAMER\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\PC GAMER\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC GAMER\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC GAMER\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\PC GAMER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
